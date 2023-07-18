@@ -1,1 +1,1 @@
-console.log("bebas")
+console.log("astagfirulloh")
