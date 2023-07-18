@@ -1,1 +1,1 @@
-console.log('vgdvchq')
+console.log("bebas")
